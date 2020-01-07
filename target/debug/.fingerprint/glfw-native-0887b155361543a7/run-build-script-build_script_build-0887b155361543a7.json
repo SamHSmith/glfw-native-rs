@@ -1,0 +1,1 @@
+{"rustc":1240946752080948661,"features":"","target":0,"profile":0,"path":0,"deps":[[12090151836393569094,"build_script_build",false,7535937416621218570]],"local":[{"RerunIfChanged":{"output":"debug/build/glfw-native-0887b155361543a7/output","paths":["wrapper.h"]}}],"rustflags":[],"metadata":0}
