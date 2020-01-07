@@ -1,8 +1,13 @@
 [package]
 name = "glfw-native"
+description="GLFW-Native is a glfw-wrapper for rust including the glfw3native.h header. This allows you to easily use glfw with vulkan middleware since all the middleware support native vulkan surfaces. This means that you can use glfw's abstractions to write crossplatform code. And then when platform specific handles are needed they can easily be used."
 version = "0.1.0"
 authors = ["SamHSmith <13868670+SamHSmith@users.noreply.github.com>"]
 edition = "2018"
+repository= "https://github.com/SamHSmith/glfw-native-rs"
+homepage= "glfw.org"
+documentation="https://www.glfw.org/docs/3.2/modules.html"
+license="MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
